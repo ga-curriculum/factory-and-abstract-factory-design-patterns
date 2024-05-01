@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![factory design patterns](./assets/factory-design-pattern.png)
 
 **Learning objective:** By the end of this lesson, students will be able to examine the advantages and limitations of factory design patterns. 
 

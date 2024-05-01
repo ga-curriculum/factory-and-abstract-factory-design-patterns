@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![Factory Design](./assets/factory-design-code-along.png)
 
 **Learning objective:** By the end of this lesson, students will be able to practice applying the Factory pattern to promote loose coupling and maintainability in an application. 
 

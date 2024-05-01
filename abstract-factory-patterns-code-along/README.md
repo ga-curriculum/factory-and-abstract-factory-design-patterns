@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![Abstract Factory Code-Along](./assets/abstract-factory-code-along.png)
 
 **Learning objective:** By the end of this lesson, students will be able to practice applying the abstract factory design pattern to enhance a software's flexibility and maintainability. 
 

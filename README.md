@@ -1,14 +1,11 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Factory and Abstract Factory](./assets/factory-and-abstract-factory-header_1.png)
 
 ## About
 
 Delve into the Factory and Abstract Factory design patterns to understand their benefits and limitations. Learn how to apply these patterns to enhance flexibility, maintainability, and loose coupling in software development projects.
 
 ## Prerequisites
-
-- tktk
-- tktk
-- tktk
+- None
 
 ## Content
 
