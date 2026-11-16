@@ -1,6 +1,6 @@
 # ![Factory and Abstract Factory](./assets/factory-and-abstract-factory-header_1.png)
 
-# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/factory-design-patterns-in-java) repo instead.
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://github.com/ga-curriculum/factory-design-patterns-in-java) repo instead.
 
 ## About
 
@@ -27,5 +27,5 @@ Delve into the Factory and Abstract Factory design patterns to understand their 
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
 
